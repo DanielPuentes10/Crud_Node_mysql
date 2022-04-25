@@ -1,5 +1,5 @@
 # CRUD Nodejs and Mysql
-este programa es un crud realizado con nodejs y mysql para mi proyecto DigitalWebsite
+este programa es un crud realizado con nodejs y mysql para mi proyecto DigitalWebsite basado en el tutorial de Fazt Code
 
 # Usefull Commands
 - to init mysql: `mysql -u root -p`
